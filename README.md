@@ -6,10 +6,10 @@ To anyone that needs an app that works in both landscape and portrait mode on bo
 
 
 ## LANDSCAPE MODE:
-![alt text](https://raw.githubusercontent.com/MattAndrzejczuk/Simplest-iOS-NSLayout-Constraints/master/demo1.PNG)
+![alt text](https://raw.githubusercontent.com/MattA9K/Simplest-iOS-NSLayout-Constraints/master/demo1.PNG)
 
 ## PORTRAIT MODE:
-![alt text](https://raw.githubusercontent.com/MattAndrzejczuk/Simplest-iOS-NSLayout-Constraints/master/demo2.PNG)
+![alt text](https://raw.githubusercontent.com/MattA9K/Simplest-iOS-NSLayout-Constraints/master/demo2.PNG)
 
 ```swift
 
